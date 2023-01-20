@@ -1,0 +1,12 @@
+/Users/lulu/Programming/Rust/Grep_tool/target/debug/deps/float_cmp-4821b8e5ec2987ef.rmeta: /Users/lulu/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/lib.rs /Users/lulu/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/macros.rs /Users/lulu/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/ulps.rs /Users/lulu/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/ulps_eq.rs /Users/lulu/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/eq.rs /Users/lulu/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/ratio.rs
+
+/Users/lulu/Programming/Rust/Grep_tool/target/debug/deps/libfloat_cmp-4821b8e5ec2987ef.rlib: /Users/lulu/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/lib.rs /Users/lulu/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/macros.rs /Users/lulu/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/ulps.rs /Users/lulu/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/ulps_eq.rs /Users/lulu/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/eq.rs /Users/lulu/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/ratio.rs
+
+/Users/lulu/Programming/Rust/Grep_tool/target/debug/deps/float_cmp-4821b8e5ec2987ef.d: /Users/lulu/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/lib.rs /Users/lulu/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/macros.rs /Users/lulu/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/ulps.rs /Users/lulu/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/ulps_eq.rs /Users/lulu/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/eq.rs /Users/lulu/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/ratio.rs
+
+/Users/lulu/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/lib.rs:
+/Users/lulu/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/macros.rs:
+/Users/lulu/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/ulps.rs:
+/Users/lulu/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/ulps_eq.rs:
+/Users/lulu/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/eq.rs:
+/Users/lulu/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/ratio.rs:

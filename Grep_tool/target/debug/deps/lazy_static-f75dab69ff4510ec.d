@@ -1,0 +1,8 @@
+/Users/lulu/Programming/Rust/Grep_tool/target/debug/deps/lazy_static-f75dab69ff4510ec.rmeta: /Users/lulu/.cargo/registry/src/github.com-1ecc6299db9ec823/lazy_static-1.4.0/src/lib.rs /Users/lulu/.cargo/registry/src/github.com-1ecc6299db9ec823/lazy_static-1.4.0/src/inline_lazy.rs
+
+/Users/lulu/Programming/Rust/Grep_tool/target/debug/deps/liblazy_static-f75dab69ff4510ec.rlib: /Users/lulu/.cargo/registry/src/github.com-1ecc6299db9ec823/lazy_static-1.4.0/src/lib.rs /Users/lulu/.cargo/registry/src/github.com-1ecc6299db9ec823/lazy_static-1.4.0/src/inline_lazy.rs
+
+/Users/lulu/Programming/Rust/Grep_tool/target/debug/deps/lazy_static-f75dab69ff4510ec.d: /Users/lulu/.cargo/registry/src/github.com-1ecc6299db9ec823/lazy_static-1.4.0/src/lib.rs /Users/lulu/.cargo/registry/src/github.com-1ecc6299db9ec823/lazy_static-1.4.0/src/inline_lazy.rs
+
+/Users/lulu/.cargo/registry/src/github.com-1ecc6299db9ec823/lazy_static-1.4.0/src/lib.rs:
+/Users/lulu/.cargo/registry/src/github.com-1ecc6299db9ec823/lazy_static-1.4.0/src/inline_lazy.rs:
